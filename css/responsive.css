@@ -150,6 +150,7 @@ header ul li:hover{
 header .logo{
     margin-top: 40px;
     float: left;
+    width: 90px;
 }
 
 header a.hamburger{
