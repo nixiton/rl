@@ -26,27 +26,11 @@
 
 Vous avez frappé à  la bonne porte, contactez nous
 							</p><br>
-							<div class="col-md-6">
+							<div class="col-md-12">
 								<img width="100%" src="images/transport.jpg">
 								
 								
 							</div>
-							<div class="col-md-6">
-								<img width="100%" src="images/gear-tools.png">
-								
-							</div>
-
-							<div class="col-md-6" style="margin-top:10px;">
-								<img width="100%" src="images/powerful_back_office.png">
-								
-								
-							</div>
-							<div class="col-md-6" style="margin-top:10px;">
-								<img width="100%" src="images/none.png">
-								
-								
-							</div>
-							
 						</div>
 						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
@@ -55,9 +39,7 @@ Vous avez frappé à  la bonne porte, contactez nous
 							<p style="font-size:14px;">
 								Des services pour répondre aux besoins de vos entreprises
 
-« NK S.A.R.L » vous permet simplement de mettre à disposition de votre entreprise du mobilier, des fournitures de bureau, un service informatique de qualité qui s’adapte à vos évolutions et vos besoins. Met à vos disposition des agents qualifiés pour éradiquer les parasites qui peuvent constituer de véritables nuisances au quotidien.
-
-
+« NK S.A.R.L » vous permet simplement de mettre à disposition de votre entreprise du mobilier, des fournitures de bureau, un service informatique de qualité qui s’adapte à vos évolutions et vos besoins. 
 							</p>
 							<div class="col-md-6">
 								<img width="100%" src="images/google_blog_search-.png">
