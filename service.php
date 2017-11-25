@@ -19,13 +19,15 @@
 						</div>
 						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
-							<div class="notification" style="background-color:#242423;border-radius:0;">Services web</div>
+							<div class="notification" style="background-color:#242423;border-radius:0;">Transport</div>
 							<br><br>
 							<p  style="font-size:14px;">
-								Nous mettons a jour  votre interface back office de manière à l’optimiser lors des recherches d’informations sur internet mais aussi en modérant les flux sur votre site web, vos blogs et vos forums 
+								Vous êtes une institution publique, une entreprise publique ou privée, une organisation non gouvernementale, un particulier et vous recherchez un partenaire pour importer ou expédier vos marchandises en CENTRAFRIQUE.
+
+Vous avez frappé à  la bonne porte, contactez nous
 							</p><br>
 							<div class="col-md-6">
-								<img width="100%" src="images/google_blog_search-.png">
+								<img width="100%" src="images/transport.jpg">
 								
 								
 							</div>
@@ -48,31 +50,33 @@
 						</div>
 						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
-							<div class="notification" style="background-color:#b13616;border-radius:0;">Développements web</div>
+							<div class="notification" style="background-color:#b13616;border-radius:0;">Prestations de services</div>
 							<br><br>
 							<p style="font-size:14px;">
-								Nous sommes spécialisés dans le developpement de sites web en suivant les tendances de design et avancées technologiques du  moment.
+								Des services pour répondre aux besoins de vos entreprises
+
+« NK S.A.R.L » vous permet simplement de mettre à disposition de votre entreprise du mobilier, des fournitures de bureau, un service informatique de qualité qui s’adapte à vos évolutions et vos besoins. Met à vos disposition des agents qualifiés pour éradiquer les parasites qui peuvent constituer de véritables nuisances au quotidien.
+
+
 							</p>
 							<div class="col-md-6">
-								<img width="100%" src="images/HTML_Logo.png">
-							</div>
-							<div class="col-md-6">
-								<img width="100%" src="images/2.png">
-							</div>
-							<div class="col-md-6">
-								<img width="100%" src="images/icon256.png">
-							</div>
-							<div class="col-md-6">
-								<img width="100%" src="images/wordpress.png">
+								<img width="100%" src="images/google_blog_search-.png">
+								
 								
 							</div>
 							<div class="col-md-6">
-								<img width="100%" src="images/drupal.png">
+								<img width="100%" src="images/gear-tools.png">
 								
 							</div>
-							<div class="col-md-6">
-								<img width="100%" src="images/codeigniter-logo.png
-							">
+
+							<div class="col-md-6" style="margin-top:10px;">
+								<img width="100%" src="images/powerful_back_office.png">
+								
+								
+							</div>
+							<div class="col-md-6" style="margin-top:10px;">
+								<img width="100%" src="images/none.png">
+								
 								
 							</div>
 							
