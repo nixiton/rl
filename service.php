@@ -7,7 +7,7 @@
 					<br>
 					<div class="row">
 						<div class="col-md-1"></div>
-						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
+						<div class="col-md-3" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
 							<div class="notification" style="background-color:#737b69;border-radius:0;">Logistique</div>
 							<br><br>
@@ -17,14 +17,12 @@
 							<img width="100%" src="images/logistic.jpg">
 
 						</div>
-						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
+						<div class="col-md-3" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
 							<div class="notification" style="background-color:#242423;border-radius:0;">Transport</div>
 							<br><br>
 							<p  style="font-size:14px;">
 								Vous êtes une institution publique, une entreprise publique ou privée, une organisation non gouvernementale, un particulier et vous recherchez un partenaire pour importer ou expédier vos marchandises en CENTRAFRIQUE.
-
-Vous avez frappé à  la bonne porte, contactez nous
 							</p><br>
 							<div class="col-md-12">
 								<img width="100%" src="images/transport.jpg">
@@ -32,7 +30,7 @@ Vous avez frappé à  la bonne porte, contactez nous
 								
 							</div>
 						</div>
-						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
+						<div class="col-md-3" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
 							<div class="notification" style="background-color:#b13616;border-radius:0;">Prestations de services</div>
 							<br><br>
@@ -63,7 +61,7 @@ Vous avez frappé à  la bonne porte, contactez nous
 							</div>
 							
 						</div>
-						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
+						<!--div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
 							<div class="notification" style="background-color:#39617a;border-radius:0;">Infographie</div>
 							
@@ -74,8 +72,8 @@ Vous avez frappé à  la bonne porte, contactez nous
 							
 							<img width="100%" src="images/color-cs6.png">
 						
-						</div>
-						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
+						</div-->
+						<!--div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
 							<div class="notification" style="background-color:#bd1818;border-radius:0;">Développements d'applications</div>
 							<br><br>
@@ -104,7 +102,7 @@ Vous avez frappé à  la bonne porte, contactez nous
 							
 								
 							</div>
-						</div>
+						</div-->
 					</div>
 					<br><br>
 					<div class="row">
