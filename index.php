@@ -23,7 +23,7 @@
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<a href="#"><img src="images/nk.jpg" class="logo" alt="" titl=""/></a>
+				<a href="#"><img src="images/nk.png" class="logo" alt="" titl=""/></a>
 				<a href="#" class="hamburger">
 					
 				</a>
