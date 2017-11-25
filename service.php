@@ -9,12 +9,12 @@
 						<div class="col-md-1"></div>
 						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
-							<div class="notification" style="background-color:#737b69;border-radius:0;">Traitement de données</div>
+							<div class="notification" style="background-color:#737b69;border-radius:0;">Logistique</div>
 							<br><br>
 							<p style="font-size:14px;">
-								RL Consulting traite tout projet de traitement de données que ce soit la saisie, le raffinement ou l'réorganisation de vos données personnelles ou d'entreprise.
+								Partenaire idéal pour votre entreprise, « NK S.A.R.L » vous propose un service logistique de transport routier de marchandises et des véhicules de locations en bon état à des prix compétitifs.
 							</p><br>
-							<img width="100%" src="images/iconmonstr-gear-10-icon.png">
+							<img width="100%" src="images/logistic.jpg">
 
 						</div>
 						<div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">

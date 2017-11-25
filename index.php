@@ -96,7 +96,7 @@ NK S.A.R.L c’est surtout un service sur mesure et adapté à n’importe quell
 							<!--a class="btn w-icon arrow-right " href="">Buying From Us</a-->
 						</div>
 					</div>
-					<div class="call-out-wrap callout-type-testimonial">
+					<!--div class="call-out-wrap callout-type-testimonial">
 						<div class="inner">
 							<div class="testimonial-content">
 								<p><h4 class="beta tile-sub-header">Pourquoi nous </h4><br>
@@ -106,7 +106,7 @@ NK S.A.R.L c’est surtout un service sur mesure et adapté à n’importe quell
 							</div>
 							
 						</div>
-					</div>
+					</div-->
 				</div>
 			</article>
 
