@@ -75,7 +75,7 @@
 						</div-->
 						<!--div class="col-md-2" style="min-height:90vh;background:#fff;margin-left:10px;border: 1px solid #e5e5e5;">
 							<br>
-							<div class="notification" style="background-color:#15b6b8;border-radius:0;">Développements d'applications</div>
+							<div class="notification" style="background-color:#808080;border-radius:0;">Développements d'applications</div>
 							<br><br>
 							<p  style="font-size:14px;">
 								Nous pouvons développer toutes sortes d'application pour la gestion de votre entreprise, que ce soit pour desktop, mobile ou web.
