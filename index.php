@@ -116,7 +116,7 @@ NK S.A.R.L c’est surtout un service sur mesure et adapté à n’importe quell
 	<div class=''>
 
 
-	<div  class='home-asset scrollReveal' data-animation="fadeIn" data-delay="300" style="background:#bd1818 none repeat scroll 0 0;margin-top:-90px;">
+	<div  class='home-asset scrollReveal' data-animation="fadeIn" data-delay="300" style="background:#15b6b8 none repeat scroll 0 0;margin-top:-90px;">
 	
 	
 
@@ -139,7 +139,7 @@ Nos équipes vont s'assurer que toutes activités sera mener à bien et ajoute e
 	
 	
 	<div>
-		<h3 class='asset-title' style="color:#bd1818">Nos objectifs </h3><br>
+		<h3 class='asset-title' style="color:#15b6b8">Nos objectifs </h3><br>
 		<p class='asset-caption' style="color:#fff">User centred design methods to quickly map out and test the products and services your customers desire.</p>
 	</div>
 
@@ -235,7 +235,7 @@ Nos équipes vont s'assurer que toutes activités sera mener à bien et ajoute e
 
 
 
-<footer class="l-region--footer" role="contentinfo" style="background:#bd1818 ">
+<footer class="l-region--footer" role="contentinfo" style="background:#15b6b8 ">
 <div class="footer-nav-wrap wrap">
  <nav class="footer-nav">
 
