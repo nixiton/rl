@@ -42,7 +42,7 @@
 		</header><!--  end header section  -->
 
 			<section class="caption">
-				<h2 class="caption"><span style="color:#808080">NK</span> <span style="color:#000">S.A.R.L</span></h2>
+				<h2 class="caption"><span style="color:#ff572c">NK</span> <span style="color:#000">S.A.R.L</span></h2>
 				
 			</section>
 	</section><!--  end hero section  -->
@@ -116,7 +116,7 @@ NK S.A.R.L c’est surtout un service sur mesure et adapté à n’importe quell
 	<div class=''>
 
 
-	<div  class='home-asset scrollReveal' data-animation="fadeIn" data-delay="300" style="background:#808080 none repeat scroll 0 0;margin-top:-90px;">
+	<div  class='home-asset scrollReveal' data-animation="fadeIn" data-delay="300" style="background:#ff572c none repeat scroll 0 0;margin-top:-90px;">
 	
 	
 
@@ -139,7 +139,7 @@ Nos équipes vont s'assurer que toutes activités sera mener à bien et ajoute e
 	
 	
 	<div>
-		<h3 class='asset-title' style="color:#808080">Nos objectifs </h3><br>
+		<h3 class='asset-title' style="color:#ff572c">Nos objectifs </h3><br>
 		<p class='asset-caption' style="color:#fff">User centred design methods to quickly map out and test the products and services your customers desire.</p>
 	</div>
 
@@ -235,7 +235,7 @@ Nos équipes vont s'assurer que toutes activités sera mener à bien et ajoute e
 
 
 
-<footer class="l-region--footer" role="contentinfo" style="background:#808080 ">
+<footer class="l-region--footer" role="contentinfo" style="background:#ff572c ">
 <div class="footer-nav-wrap wrap">
  <nav class="footer-nav">
 
