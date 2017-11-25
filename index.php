@@ -42,7 +42,7 @@
 		</header><!--  end header section  -->
 
 			<section class="caption">
-				<h2 class="caption"><span style="color:#bd1818">NK</span> S.A.R.L. <span style="color:#000">Madagascar</span></h2>
+				<h2 class="caption"><span style="color:#15b6b8">NK</span> <span style="color:#000">S.A.R.L</span></h2>
 				
 			</section>
 	</section><!--  end hero section  -->
