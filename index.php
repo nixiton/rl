@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Rl Consulting Madagascar</title>
+	<title>NK S.A.R.L.</title>
 	<meta charset="utf-8">
 	<meta name="author" content="pixelhint.com">
 	<meta name="description" content="La casa free real state fully responsive html5/css3 home page website template"/>
@@ -42,7 +42,7 @@
 		</header><!--  end header section  -->
 
 			<section class="caption">
-				<h2 class="caption"><span style="color:#bd1818">RL</span> Consulting <span style="color:#000">Madagascar</span></h2>
+				<h2 class="caption"><span style="color:#bd1818">NK</span> S.A.R.L. <span style="color:#000">Madagascar</span></h2>
 				
 			</section>
 	</section><!--  end hero section  -->
@@ -74,8 +74,22 @@
 						<h3 class="beta tile-sub-header">Qui nous sommes</h3>
 						<div class="tile-content">
 							<p>
-					RL Consulting a été créée en Janvier 2010 dans le but de faire connaitre ses atouts, son savoir-faire et ses expériences en matière de NTIC mais aussi d’autres horizons comme dans la BTP, l’Architecture …
-<br>Entreprise prestataire de service informatique et de sous traitance (Service web : Modération  et Animation (blog, forum, contenu de sites …) - Traitement de données web (saisie online / offline, indexation de données, Comptabilité…) – Infographie (Traitement d’image, Vectorisation…) – Rédaction (Rédaction fiches produits, blogs, optimisation SEO…)).
+					
+
+Transitaire et prestataire de services à Bangui
+
+Depuis 2015, la Société NK S.A.R.L se charge de l’expédition et de l’importation de votre marchandise. 
+
+Nous pouvons aussi  organiser l’acheminement de votre véhicule, grâce à des transporteurs internationaux, à partir de Douala. Nous organisons également la gestion logistique de tous vos produits miniers (diamants, pierres précieuses et métaux précieux).
+
+NK S.A.R.L est un transitaire-organisateur de transport international au service des importateurs et exportateurs. 
+
+Aujourd’hui, le succès des échanges commerciaux est liés aux bonnes opérations de dédouanement, d’acheminent caractérisées par la maîtrise des délais, des coûts, des réglementations et des risques.
+
+Besoin d’un devis pour vos colis, vos véhicules, vos marchandises contactez-nous.
+
+NK S.A.R.L c’est surtout un service sur mesure et adapté à n’importe quelle problématique.
+
 							</p>
 						</div>
 						<div class="tile-link-handler">
